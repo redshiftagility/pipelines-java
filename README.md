@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/redshiftagility/Dummy/_apis/build/status/redshiftagility.pipelines-java?branchName=master)](https://dev.azure.com/redshiftagility/Dummy/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
